@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42800974ada59f248b9fa697fd92e9d8, type: 3}
+  m_Name: FireAttackCard
+  m_EditorClassIdentifier: 
+  cardTitle: Fire Attack
+  description: Casts a fireball attack
+  cost: 1
+  damage: 2
+  damageType: 0
+  cardImage: {fileID: 21300000, guid: dd743d62c2815e048a15a43f86a87d8d, type: 3}
+  frameImage: {fileID: 21300000, guid: 11bb70744d70b8c4d94aa7f6bd6c0e91, type: 3}
+  numberInDeck: 6
+  isDefenseCard: 0
+  isMirrorCard: 0
+  isMulti: 0
